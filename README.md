@@ -1,2 +1,1 @@
-Add all these files to one folder.
-'Hide taskbar in desktop mode' from setting for better and realistic view 
+A website which is an actual representation of Windows 11
